@@ -9,11 +9,7 @@
   <img src="screenshots/3.jpg" alt="App Preview 3" width="200" />
   <img src="screenshots/4.jpg" alt="App Preview 4" width="200" />
 </div>
-A powerful Android application designed to [brief description of the purpose, e.g., monitor and analyze health data using BLE-enabled devices]. This project is specifically optimized for devices such as **FitRabbit**.
 
-## Features
-- List the main features of your project.
-- Highlight what makes it unique or useful.
 
 ## Tech Stack & Libraries Used
 
