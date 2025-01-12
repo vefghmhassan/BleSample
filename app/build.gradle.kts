@@ -77,7 +77,7 @@ dependencies {
     //Animation
     implementation (libs.lottie)
 
-//    crootine
+//    coroutines
     implementation (libs.kotlinx.coroutines.core)
     implementation (libs.kotlinx.coroutines.android)
 
