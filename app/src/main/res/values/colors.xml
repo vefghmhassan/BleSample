@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_card">#FFFFFFFF</color>
+    <color name="gray">#CBCBCB</color>
+    <color name="blue">#4ebcdf</color>
+    <color name="green">#3dd0be</color>
+    <color name="red">#F44336</color>
+    <color name="colorIndex">#FF3D00</color>
+    <color name="colorBack">#F6F7F8</color>
+    <color name="colorText">#000000</color>
+    <color name="colorBox">#FFFFFF</color>
+    <color name="colorTextSecondary">#888888</color>
+
+    <color name="colorBackDark">#1A1A1A</color>
+    <color name="colorBackLight">#F0F4F6</color>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#2c628c</color>
+
+    <color name="darkLight">#F0F0F0</color>
+
+    <color name="Red">#EC2637</color>
+    <color name="Green">#1abe75</color>
+
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="dangerLight">#eda8a5</color>
+    <color name="windowBackgroundLight">#000000</color>
+    <color name="card_c_ecg">#F27CAE</color>
+    <color name="card_c_ppg">#5EABD9</color>
+    <color name="card_c_acc">#19B576</color>
+    <color name="card_c_battery">#4A50BD</color>
+    <color name="card_c_temperature">#ED9F58</color>
+    <color name="card_c_Web">#009688</color>
+    <color name="card_c_history">#885DD5</color>
+
+</resources>
